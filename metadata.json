@@ -1,0 +1,13 @@
+{
+  "name": "Stripe Remix: IE IELTS Express 1.3",
+  "description": "Unlock your potential with EXCIExpress. Practice Listening, Reading, Writing, and Speaking with tiered levels and AI-powered feedback designed to boost your band score.",
+  "requestFramePermissions": [
+    "microphone"
+  ],
+  "majorCapabilities": [
+    "AI-powered evaluation",
+    "Multilingual support",
+    "Tiered practice levels",
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
